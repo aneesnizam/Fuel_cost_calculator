@@ -22,8 +22,8 @@ The **Fuel Cost Calculator** is a simple and user-friendly React application tha
 
 1. Clone the repository:
 
-   ```bash
-   git clone <your-repo-url>
+   ```
+   git clone <https://github.com/aneesnizam/Fuel_cost_calculator.git>
 
    ```
 
