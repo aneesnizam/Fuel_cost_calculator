@@ -1,0 +1,20 @@
+#footer{
+    width: 100%;
+    text-align: center;
+    background-color:  rgb(50, 50, 50);
+    color: aliceblue;
+    padding: 6px;
+}
+#footer p{
+    font-size: 14px;
+}
+@media all and (max-width:768px){
+    #footer p{
+        font-size: 12px;
+    }
+}
+@media (max-width: 480px){
+    #footer p{
+        font-size: 10px;
+    }
+}
